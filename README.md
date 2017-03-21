@@ -1,0 +1,2 @@
+# pattern-recognition-from-unlabeled-xcel-data-
+This code tries to find some interesting pattern from a given excel file. First I finds out the number of categorical column and then based on your target column or the column on which you want to find any pattern with respect to other columns it tells you come correlation between the columns. I have used K-Means to cluster the data and tried to find some pattern based on clusters.
